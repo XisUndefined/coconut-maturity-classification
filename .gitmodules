@@ -1,0 +1,3 @@
+[submodule "PNCC"]
+	path = PNCC
+	url = https://github.com/supikiti/PNCC.git
