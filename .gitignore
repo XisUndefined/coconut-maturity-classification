@@ -1,5 +1,6 @@
 /envSkripsi/
 /.vscode/
 /PNCC/
+get_filenames.py
 pca-example.ipynb
 08_dimensionality_reduction.ipynb
